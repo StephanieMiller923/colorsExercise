@@ -1,0 +1,27 @@
+h1 {
+     color: red;
+}
+
+h2 {
+    color: #09BF20;
+}
+
+h3 {
+    color: rgb(223, 184, 9);
+}
+
+h4 {
+    color: rgba(12, 55, 26, 0.5);
+}
+
+h5 {
+    color: rgb(92, 157, 201);
+}
+
+h6 {
+    color: rgb(148, 37, 120);
+}
+
+li {
+     color: hotpink;
+}
